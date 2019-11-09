@@ -1,0 +1,5 @@
+include CHANGES AUTHORS REAMDE.md 
+recursive-include docs *
+recursive-include tests *
+recursive-exclude tests *.pyc
+recursive-exclude tests *.pyo
